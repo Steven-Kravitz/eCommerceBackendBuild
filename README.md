@@ -19,7 +19,7 @@ This application can display the API's current data, update that data, add to th
 
 [This video demonstrates the get, put, create, and delete routes of the database. As well as how to initialize the db and seed it](./assets/ecommerceDemo.gif)
 
-Video Link : <iframe src="https://drive.google.com/file/d/1AhZvuEm_e-35uwEB1AdjNEyeFo7EzXOC/preview" width="640" height="480"></iframe>
+Video Link : https://drive.google.com/file/d/1AhZvuEm_e-35uwEB1AdjNEyeFo7EzXOC/view
 
 ## License
 This project is licensed under the MIT license.
