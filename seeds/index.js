@@ -16,7 +16,6 @@ const seedAll = async () => {
 
   await seedProductTags();
 
-  console.log('Seeding complete')
   process.exit(0);
 };
 
